@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2023-04-24 01:06:04 -0400
+date: 2023-04-24 01:06:04 +0900
 categories: jekyll update
 ---
 
