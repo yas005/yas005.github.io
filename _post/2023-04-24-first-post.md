@@ -1,5 +1,5 @@
 ---
-title: "Hello! I'm Yoonah Song"
+title: "About Me"
 date: 2023-04-24 01:06:04 -0400
 categories: jekyll update
 ---
